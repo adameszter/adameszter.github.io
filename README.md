@@ -1,53 +1,10 @@
-# E-Dent Labor - Tulajdonosi Útiterv
+# E-Dent Labor
 
-Modern, single-page weboldal fogtechnikai labor üzleti tervének bemutatására.
+Modern, single-page weboldal fogtechnikai labor számára.
 
-## 🎨 Design
-
-- **Színvilág**: Kék-fehér professzionális téma
-- **Tipográfia**: Inter font család
-- **Stílus**: Modern, clean, üzleti megközelítés
-- **Animációk**: Smooth scroll, fade-in effektek, hover állapotok
-
-## 📁 Fájlstruktúra
-
-```
-edent-lab/
-├── index.html      # Fő HTML fájl
-├── style.css       # Stíluslapok
-├── script.js       # JavaScript funkciók
-└── README.md       # Dokumentáció
-```
-
-## 🚀 GitHub Pages Telepítés
-
-### 1. GitHub Repository létrehozása
-
-```bash
-cd /home/ferko/Documents/edent-lab
-git init
-git add .
-git commit -m "Initial commit: E-Dent Labor website"
-```
-
-### 2. GitHub-ra feltöltés
-
-```bash
-# Hozz létre egy új repository-t a GitHub-on (edent-lab néven)
-git remote add origin https://github.com/FELHASZNALONEV/edent-lab.git
-git branch -M main
-git push -u origin main
-```
-
-### 3. GitHub Pages aktiválása
-
-1. Menj a repository Settings oldalára
-2. Válaszd a **Pages** menüpontot
-3. Source: **Deploy from a branch**
-4. Branch: **main** / **root**
-5. Mentés
-
-Az oldal 1-2 percen belül elérhető lesz: `https://FELHASZNALONEV.github.io/edent-lab/`
+## Technológiák
+- HTML5, CSS3, JavaScript
+- GitHub Pages hosting
 
 ## 🛠️ Helyi Fejlesztés
 
